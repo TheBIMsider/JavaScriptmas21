@@ -9,4 +9,5 @@ JavaScriptmas is an 'advent calendar' of festive daily code challenges, designed
 #2 [Toggle Christmas Theme](https://thebimsider.github.io/JavaScriptmas21/Day2/)   
 #3 [Don't Scare Your Relatives](https://thebimsider.github.io/JavaScriptmas21/Day3/)   
 #4 [Christmas Shopping List](https://thebimsider.github.io/JavaScriptmas21/Day4/)   
-#5 [Christmas Card Writer](https://thebimsider.github.io/JavaScriptmas21/Day5/)
+#5 [Christmas Card Writer](https://thebimsider.github.io/JavaScriptmas21/Day5/)    
+#6 [Text Christmassifier](https://thebimsider.github.io/JavaScriptmas21/Day6/)    
