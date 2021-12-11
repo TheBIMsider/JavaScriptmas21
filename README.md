@@ -15,3 +15,4 @@ JavaScriptmas is an 'advent calendar' of festive daily code challenges, designed
 #8 [Bell Animator](https://thebimsider.github.io/JavaScriptmas21/Day8/)  
 #9 [Turn on the Decorations](https://thebimsider.github.io/JavaScriptmas21/Day9/)  
 #10 [Festivities Loading](https://thebimsider.github.io/JavaScriptmas21/Day10/)  
+#11 [Christmas Carousel](https://thebimsider.github.io/JavaScriptmas21/Day11/)  
