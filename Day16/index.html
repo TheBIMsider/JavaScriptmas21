@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Lobster+Two&family=Mountains+of+Christmas:wght@700&display=swap"
+            rel="stylesheet" />
+        <link rel="stylesheet" href="index.css">
+        <title>Christmas Movie Selector</title>
+    </head>
+    <body>
+        <h1>🎄 Christmas Movie Selector 📺</h1>
+        <div class="movie-display">
+            <p id="suggested-movie" class="suggested-movie">Select rating and genre. Then click Select Movie button.</p>
+        </div>
+        <form>
+            <select id="age-selector">
+                <option value="R">13+ (PG-13, R)</option>
+                <option value="PG">0 - 12 (G, PG)</option>
+            </select>
+            <select id="genre-selector">
+                <option value="Action">Action</option>
+                <option value="Romance">Romance</option>
+                <option value="Comedy">Comedy</option>
+                <option value="Classic">Classic</option>
+            </select>
+            <button id="btn" type="button">Select Movie</button>
+        </form>
+        <script src="index.js"></script>
+    </body>
+</html>
