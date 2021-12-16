@@ -20,3 +20,4 @@ Day 12: [Christmas Guest List](https://thebimsider.github.io/JavaScriptmas21/Day
 Day 13: [Christmas Dinner Calculator](https://thebimsider.github.io/JavaScriptmas21/Day13/)  
 Day 14: [Lonely Elf](https://thebimsider.github.io/JavaScriptmas21/Day14/)  
 Day 15: [Festive Translator](https://thebimsider.github.io/JavaScriptmas21/Day15/)  
+Day 16: [Christmas Movie Selector](https://thebimsider.github.io/JavaScriptmas21/Day16/)  
