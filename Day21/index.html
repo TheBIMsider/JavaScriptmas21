@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="index.css" />
+    <title>Reindeer Speedometer</title>
+  </head>
+  <body>
+    <h1>Reindeer Speedometer 🦌</h1>
+    <div class="container">
+      <label for="select">Pick Location:</label>
+      <select id="select">
+        <option id="northpole" value="North Pole">North Pole</option>
+        <option value="Mubich">Munich</option>
+        <option value="Kiev">Kiev</option>
+        <option value="Ulaanbaatar">Ulaanbaatar</option>
+        <option value="Sydney">Sydney</option>
+        <option value="Tijuana">Tijuana</option>
+        <option value="Chicago">Chicago</option>
+        <option value="Calgary">Calgary</option>
+      </select>
+      <label for="time">Journey Time (hours):</label>
+      <input type="number" id="time" name="time" value="0" />
+      <button type="submit" id="avgBtn">Calculate Average Speed</button>
+    </div>
+    <p id="speedometer">
+      <span
+        >Pick a location and enter a journey time in hours to<br />
+        find the average Reindeer speed from the North Pole.</span>
+    </p>
+    <script src="index.js"></script>
+  </body>
+</html>
