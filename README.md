@@ -26,3 +26,4 @@ Day 18: [Custom Shopping Checkboxes](https://thebimsider.github.io/JavaScriptmas
 Day 19: [Dessert Decider](https://thebimsider.github.io/JavaScriptmas21/Day19/)  
 Day 20: [Snowman Customizer](https://thebimsider.github.io/JavaScriptmas21/Day20/)  
 Day 21: [Reindeer Speedometer](https://thebimsider.github.io/JavaScriptmas21/Day21/)  
+Day 22: [Christmas Stress Buster](https://thebimsider.github.io/JavaScriptmas21/Day22/)  
