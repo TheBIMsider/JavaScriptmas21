@@ -28,3 +28,4 @@ Day 20: [Snowman Customizer](https://thebimsider.github.io/JavaScriptmas21/Day20
 Day 21: [Reindeer Speedometer](https://thebimsider.github.io/JavaScriptmas21/Day21/)  
 Day 22: [Christmas Stress Buster](https://thebimsider.github.io/JavaScriptmas21/Day22/)  
 Day 23: [Santa Sign](https://thebimsider.github.io/JavaScriptmas21/Day23/)  
+Day 24: [Sleigh Launcher](https://thebimsider.github.io/JavaScriptmas21/Day24/)  
